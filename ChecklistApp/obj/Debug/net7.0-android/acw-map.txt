@@ -1,0 +1,3 @@
+ChecklistApp.MainActivity, ChecklistApp;crc6456745e21905afe2c.MainActivity
+ChecklistApp.MainActivity;crc6456745e21905afe2c.MainActivity
+checklistapp.MainActivity;crc6456745e21905afe2c.MainActivity
