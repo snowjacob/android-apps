@@ -1,7 +1,6 @@
 # Checklist App for Android
 
-![Checklist App Screenshot](checklist-app-demo.jpg)
-
+<img src="checklist-app-demo.jpg" alt="Image Description" height="800">
 This is a simple Checklist App for Android that allows you to manage a single checklist by adding and deleting checkboxes. The app provides an intuitive interface to keep track of your tasks and ensure nothing is missed.
 
 ## Features
